@@ -1,3 +1,39 @@
-/* 
-    General Styles
-*/
+
+.logo-page{
+    width: 60px;
+}
+
+.number-favorites{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.cards-container{
+    overflow-x: auto;
+}
+
+.card-container{
+    margin-right: 50px;
+}
+
+.card-container{
+    min-width: 300px;
+}
+
+.favorites-btn{
+    background-color: transparent;
+}
+
+hr{
+    height: 1px;
+    width: 90%;
+}
+
+.trash-btn{
+    border: none;
+    background-color: transparent;
+}
+
+.navStyle{
+    background-color: rgba(205,0,0, 0.4);
+}
